@@ -1,4 +1,4 @@
-#Loan calculaor using tkinter
+#Loan calculaor using tkinter by Azeez Temitope Olanrewaju using tkinker 
 import tkinter 
 from tkinter import *
 
